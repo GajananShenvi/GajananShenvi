@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gajanan Shenvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananshenv&label=Profile%20views&color=0e75b6&style=flat" alt="gajananshenv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananshenvi&label=Profile%20views&color=0e75b6&style=flat" alt="gajananshenvi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajananshenv" alt="gajananshenv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajananshenvi" alt="gajananshenvi" /></a> </p>
 
 - 🌱 I’m currently learning **DSA JavaScript**
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajananshenv&show_icons=true&theme=tokyonight&locale=en" alt="gajananshenv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajananshenv&" alt="gajananshenv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajananshenvi&" alt="gajananshenv" /></p>
